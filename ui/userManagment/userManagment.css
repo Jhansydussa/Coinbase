@@ -1,0 +1,52 @@
+.error {
+    color: red;
+    font-size: 12px;
+}
+.background{
+    background-color: black;
+    width:500px;
+    height:300px;
+   align-items: center;
+   justify-content: center;
+    margin:auto;
+    padding:10px;
+}
+
+#detailsContainer{
+    margin-left:40px;
+    background-color: gray;
+    color:black;
+    padding:15px;
+
+}
+#newContainer{
+    background-color:rgb(30, 154, 221);
+    padding:10px;
+    margin-left:40px;
+    color:black;
+    
+}
+tr{
+ color:white;
+  
+}
+#btnNew {
+    margin-left: 270px;
+    width: 150px;
+    height: 60px;
+}
+h2{
+    align-items:center;
+    color:blue;
+    text-decoration: underline;
+}
+body{
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+
+#editContainer{
+    background-color: gray;
+    padding:15px;
+}
